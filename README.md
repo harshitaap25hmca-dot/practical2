@@ -1,2 +1,2 @@
 # practical2
-practical2
+index.html
